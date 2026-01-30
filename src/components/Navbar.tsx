@@ -67,7 +67,7 @@ const Navbar: React.FC = () => {
           {/* Action Button Section */}
           <div className="flex items-center">
             <a 
-              href="https://exile-audit-portal-u8d3.vercel.app/"
+              href="https://audit.exileaiparnter.live/"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-[#00B67A] text-white px-5 py-2.5 md:px-6 md:py-3 rounded-xl text-xs md:text-sm font-bold hover:bg-[#009664] transition-all shadow-md hover:shadow-[0_0_20px_rgba(0,182,122,0.3)] active:scale-95"
